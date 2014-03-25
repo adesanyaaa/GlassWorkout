@@ -164,4 +164,4 @@ public class ChronometerDrawer implements SurfaceHolder.Callback {
                         0 /* loop */,
                         1 /* rate */);
     }
-}
+} 
