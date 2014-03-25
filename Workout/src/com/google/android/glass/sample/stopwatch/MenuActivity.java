@@ -39,7 +39,7 @@ public class MenuActivity extends Activity {
         card.setFootnote("I'm the footer!");
         setContentView(card.toView());
     }
-
+ 
     @Override
     public void onResume() {
         super.onResume();
